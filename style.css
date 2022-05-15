@@ -1,0 +1,144 @@
+body {
+  font-family: sans-serif;
+  background-color:	#7C1F7C ;
+}
+
+
+.link-header {
+  padding: 5px 10px 5px 10px;
+  font-size: 160px;
+  text-decoration: none;
+
+}
+header { 
+  background-image: linear-gradient(217deg, rgba(155, 25, 199, 0.8), rgba(255,0,0,0) 70.71%), 
+linear-gradient(127deg, rgba(187, 14, 37, 0.8), rgba(0,255,0,0) 70.71%), 
+linear-gradient(336deg, rgba(221, 14, 14, 0.8), rgba(0,0,255,0) 70.71%); }
+.menu {
+  
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+.link-nav {
+  color: black;
+  font-size: 24px;
+  margin-right: 35px;
+  text-decoration: none;
+  border-bottom: 2px solid black;
+}
+
+h1 {
+  color: white;
+  font-size: 100px;
+}
+
+p {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+ul {
+  font-size: 24px;
+  list-style: url("https://mars.algoritmika.org/uploads/2021/04/Arrow%201_0_1618309609.png");
+  margin-left: 60px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+ol {
+  font-size: 24px;
+  margin-left: 60px;
+}
+
+.text-big {
+  font-size: 48px;
+  margin-left: 60px;
+}
+
+.link-text {
+  color:white;
+  text-decoration: none;
+  border-bottom: 2px solid wheat;
+}
+
+h2 {
+  
+  font-size: 64px;
+}
+
+footer {
+  padding: 65px 0px 80px 80px;
+}
+
+.social {
+  margin-right: 60px;
+}
+.qqq{
+    border: 10px solid black;
+    width: 800px;
+    height: 100%;
+    color: white;
+    text-align: left;
+    margin: 20px;
+        padding: 5px;
+}
+.aaa{
+     border: 10px solid black;
+    width: 800px;
+    height: 100%;
+    color: white;
+    text-align: left;
+    margin: 20px;  
+    padding: 5px;
+
+}
+.fff{
+      border: 10px solid black;
+    width: 800px;
+    height: 100%;
+    color: white;
+    text-align: left;
+    margin:20px ;
+    padding: 5px;
+}
+.ttt{
+   border: 10px solid black;
+    width: 800px;
+    height: 100%;
+    color: white;
+    text-align: left;  
+    margin:20px ;
+    padding: 5px;
+
+}
+.yyy{
+border: 10px solid black;
+    width: 800px;
+    height: 100%;
+    color: white;
+    text-align: left;  
+    margin:20px ;
+   padding: 5px;
+}
+.vvv{
+border: 10px solid black;
+    width: 800px;
+    height: 100%;
+    color: white;
+    text-align: left;  
+    margin:20px ;
+    padding: 5px;
+}
+.zzz{
+border: 10px solid black;
+    width: 800px;
+    height: 100%;
+    color: white;
+    text-align: left;  
+    margin:20px ;
+    padding: 5px;
+}
